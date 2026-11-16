@@ -13,7 +13,10 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suryanshdc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Suryanshdc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <i>GitHub achievements showcase coming soon!</i>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
