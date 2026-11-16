@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <i>GitHub achievements showcase coming soon!</i>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Suryanshdc&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ### ✍️ Random Dev Quote
